@@ -3,7 +3,7 @@
 
 1. Reading in Sample Metadata
 2. Reading in Expression Data (use of pivot longer and pivot wider to transpose the table)
-3. Formatting Column Names (Replacing "." from column names to ""
+3. Formatting Column Names (Replacing "." from column names to "")
 4. Renaming and Selecting Columns of Interest
 5. Creating New Columns using dplyr::mutate
 6. Find Average Age of Sex
